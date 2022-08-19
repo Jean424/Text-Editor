@@ -26,7 +26,7 @@ Copyright © 2022 <Ivy, Kelton, Yousef, Jawid and Jing >.
 Licensed under the [MIT License](LICENSE).
 
 ## Questions:
-- GitHub: https://github.com/Jean424/Social_Network_Api
+- GitHub: https://github.com/Jean424/Text-Editor
 
 ## Link:
-- Link to the heroku:https://watch.screencastify.com/v/X0gDE4atLl3vUnnkDfj1
+- Link to the heroku: https://note-textor.herokuapp.com/
